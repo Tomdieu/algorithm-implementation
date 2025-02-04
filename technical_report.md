@@ -10,7 +10,7 @@ fontsize: 10pt
 header-includes:
     - \usepackage{fancyhdr}
     - \pagestyle{fancy}
-    - \fancyfoot[C]{TOMDIEU TCHADIEUKO IVAN GOTTFIED}
+    - \fancyfoot[C]{TOMDIEU TCHADIEUKO IVAN GOTTFIED(20U2947)}
     - \fancyfoot[R]{\thepage}
 ---
 
